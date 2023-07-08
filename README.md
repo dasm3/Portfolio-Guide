@@ -19,6 +19,13 @@ Welcome to my World of Analytics portfolio! Here, I document a summary of my pro
 | 🚗 [Afghanistan Disease Prediction](https://github.com/dasm3/DataAnalyicsSpring2023_Muskan_Das) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for predicting Afghanisthan airborne and water borne diseases based on depleting health conditions The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
 ***
 
+# Applied Analytics
+
+| Project Link | Tools | Project Description | 
+|---|---|---|---|
+| 🚗 [Words used based on Emotion Dictionary](https://github.com/dasm3/Applied_Analytics) | May 2023 | Python, Tableau, Excel Analytics, Anaconda(Jupyter), SAS | Implemented Natural Language Processing and Regression methods to predict the behavior pattern of indiviuals under various psychometric emotion when under employed or unemployed status. |
+***
+
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
@@ -33,4 +40,4 @@ Welcome to my World of Analytics portfolio! Here, I document a summary of my pro
 | ⛽️ [Amazon_ads_](https://github.com/dasm3/dasm03) | Data Wrangling & EDA | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. |  pandas, matplotlib |   
 
 
-@
+----- UPDATE ON Project Reseach and Guides Coming Up Soon! --------
